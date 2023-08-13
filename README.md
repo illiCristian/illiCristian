@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 💬 Ask me about **Html, Css, Javascript, ReactJs, C**
+- 💬 Ask me about **Html, Css, Javascript, ReactJs, Next js, C, Node, Express, Nest js**
 
 - 📫 How to reach me **illicristianfabian@gmail.com**
 
